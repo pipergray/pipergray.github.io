@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Piper's Blog</title>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2014-07-04T22:12:59+00:00</updated>
+ <id>http://lanyon.getpoole.com</id>
+ <author>
+   <name>Piper Gray</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>First Test Post</title>
+   <link href="http://lanyon.getpoole.com/test/2014/07/04/first-test-post/"/>
+   <updated>2014-07-04T00:00:00+00:00</updated>
+   <id>http://lanyon.getpoole.com/test/2014/07/04/first-test-post</id>
+   <content type="html">&lt;h1 id=&quot;this_is_a_header&quot;&gt;This is a Header&lt;/h1&gt;
+
+&lt;p&gt;This is a test paragraph written by Piper.Gray&lt;/p&gt;
+
+&lt;h2 id=&quot;programming_is_fun&quot;&gt;Programming is fun&lt;/h2&gt;
+
+&lt;p&gt;It is sort of like building blocks, or a bit more like drawing.&lt;/p&gt;</content>
+ </entry>
+ 
+
+</feed>
