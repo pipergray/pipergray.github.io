@@ -4,7 +4,7 @@
  <title>Piper's Blog</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2014-07-04T22:12:59+00:00</updated>
+ <updated>2014-07-04T22:44:33+00:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Piper Gray</name>
@@ -24,6 +24,15 @@
 &lt;h2 id=&quot;programming_is_fun&quot;&gt;Programming is fun&lt;/h2&gt;
 
 &lt;p&gt;It is sort of like building blocks, or a bit more like drawing.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>First Article</title>
+   <link href="http://lanyon.getpoole.com/2014/07/04/first-article/"/>
+   <updated>2014-07-04T00:00:00+00:00</updated>
+   <id>http://lanyon.getpoole.com/2014/07/04/first-article</id>
+   <content type="html">&lt;hr /&gt;
+&lt;p&gt;layout:post&lt;/p&gt;</content>
  </entry>
  
 
